@@ -1,0 +1,24 @@
+{
+  "name": "count-cli",
+  "version": "1.0.0",
+  "description": "A count CLI counts number of letters, words or sentences in a given file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjhaveri1991/count-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjhaveri1991/count-cli/issues"
+  },
+  "homepage": "https://github.com/rjhaveri1991/count-cli#readme",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
